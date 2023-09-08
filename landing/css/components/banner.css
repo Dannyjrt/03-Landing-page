@@ -1,0 +1,31 @@
+.banner {
+  padding: 40px 0px;
+  background-color: rgba(0, 0, 0, 0);
+  color: rgb(237, 237, 237);
+  text-shadow: 8px 8px 24px rgb(4, 4, 4);
+  width: 100%;
+  text-align: center;
+  text-shadow: 4px 4px 10px rgb(0,0,0,.3);
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  box-shadow: 8px 8px 10px rgb(86, 86, 86);
+  margin: 0px auto;
+}
+
+.banner p {
+  color: rgb(229, 229, 229);
+}
+
+.banner h1 {
+  font-size: larger;
+}
+
+.banner a {
+  color: aliceblue;
+}
+
+.banner a:hover {
+  color: rgb(155, 117, 195);
+}
